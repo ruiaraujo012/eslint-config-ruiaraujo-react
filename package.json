@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-ruiaraujo-react",
-  "version": "0.1.0",
+  "version": "0.0.0-development",
   "description": "My custom eslint config",
   "main": "index.js",
   "repository": "https://github.com/ruiaraujo012/eslint-config-ruiaraujo-react.git",
@@ -8,7 +8,8 @@
   "license": "MIT",
   "private": false,
   "devDependencies": {
-    "cz-conventional-changelog": "3.3.0"
+    "cz-conventional-changelog": "3.3.0",
+    "semantic-release": "^19.0.2"
   },
   "dependencies": {
     "eslint-config-prettier": "^8.5.0",
@@ -24,5 +25,8 @@
   "peerDependencies": {
     "eslint": "^8.12.0",
     "prettier": "^2.6.2"
+  },
+  "scripts": {
+    "semantic-release": "semantic-release"
   }
 }
