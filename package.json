@@ -1,0 +1,13 @@
+{
+  "name": "eslint-config-ruiaraujo-react",
+  "version": "1.0.0",
+  "description": "My custom eslint config",
+  "main": "index.js",
+  "repository": "https://github.com/ruiaraujo012/eslint-config-ruiaraujo-react.git",
+  "author": "Rui Araújo",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "cz-conventional-changelog": "3.3.0"
+  }
+}
