@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-ruiaraujo-react",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "My custom eslint config",
   "main": "index.js",
   "repository": "https://github.com/ruiaraujo012/eslint-config-ruiaraujo-react.git",
