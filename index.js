@@ -51,7 +51,10 @@ module.exports = {
     "dot-notation": "error",
     eqeqeq: ["error", "smart"],
     "func-style": ["error", "declaration", { allowArrowFunctions: true }],
-    "id-length": ["warn", { exceptions: ["_", "e", "i", "j", "m", "p", "t"] }],
+    "id-length": [
+      "warn",
+      { exceptions: ["_", "e", "i", "j", "m", "p", "t", "x", "y", "z"] },
+    ],
     "id-match": [
       "error",
       "^_$|^[$_a-zA-Z]*[_a-zA-Z0-9]*[a-zA-Z0-9]*$|^[A-Z][_A-Z0-9]+[A-Z0-9]$",
