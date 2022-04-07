@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/ruiaraujo012/eslint-config-ruiaraujo-react/compare/v1.0.1...v1.0.2) (2022-04-07)
+
+
+### Bug Fixes
+
+* **deps:** add missing dependencies ([6ef9a26](https://github.com/ruiaraujo012/eslint-config-ruiaraujo-react/commit/6ef9a265d3e32f75b39c6b32f9ceb642ea064c2c))
+
 ## [1.0.1](https://github.com/ruiaraujo012/eslint-config-ruiaraujo-react/compare/v1.0.0...v1.0.1) (2022-04-07)
 
 
