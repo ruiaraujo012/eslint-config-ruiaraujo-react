@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/ruiaraujo012/eslint-config-ruiaraujo-react/compare/v1.0.3...v1.1.0) (2022-04-07)
+
+
+### Features
+
+* **id-length:** add x, y and z as id-length exceptions ([1306192](https://github.com/ruiaraujo012/eslint-config-ruiaraujo-react/commit/13061927ab6c663eb682590593b327fe9f148daa))
+
 ## [1.0.3](https://github.com/ruiaraujo012/eslint-config-ruiaraujo-react/compare/v1.0.2...v1.0.3) (2022-04-07)
 
 
