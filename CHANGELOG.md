@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/ruiaraujo012/eslint-config-ruiaraujo-react/compare/v1.0.2...v1.0.3) (2022-04-07)
+
+
+### Bug Fixes
+
+* **deps:** move dependency from devDependencies to dependencies ([076ec27](https://github.com/ruiaraujo012/eslint-config-ruiaraujo-react/commit/076ec27c21b2f53fb31502389bc584db52a821cb))
+
 ## [1.0.2](https://github.com/ruiaraujo012/eslint-config-ruiaraujo-react/compare/v1.0.1...v1.0.2) (2022-04-07)
 
 
