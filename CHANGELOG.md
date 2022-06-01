@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/ruiaraujo012/eslint-config-ruiaraujo-react/compare/v1.1.0...v1.1.1) (2022-06-01)
+
+
+### Bug Fixes
+
+* remove duplicated rule ([2bc0234](https://github.com/ruiaraujo012/eslint-config-ruiaraujo-react/commit/2bc02345ff094c5e6d2836f378fd54ddf5d2fc28))
+
 # [1.1.0](https://github.com/ruiaraujo012/eslint-config-ruiaraujo-react/compare/v1.0.3...v1.1.0) (2022-04-07)
 
 
