@@ -34,8 +34,8 @@ module.exports = {
     "@typescript-eslint/no-use-before-define": ["error"],
     "jsx-quotes": ["error", "prefer-single"],
     "react/require-default-props": "off",
+    "no-unused-vars": "off",
     "@typescript-eslint/no-unused-vars": "warn",
-    "no-unused-vars": "warn",
     "prettier/prettier": [
       "error",
       {
