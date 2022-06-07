@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/ruiaraujo012/eslint-config-ruiaraujo-react/compare/v1.1.1...v1.2.0) (2022-06-07)
+
+
+### Features
+
+* **deps:** add sort imports rule ([56b8a8a](https://github.com/ruiaraujo012/eslint-config-ruiaraujo-react/commit/56b8a8a34de7b591bce2e0ad740e49a4f7d65405))
+
 ## [1.1.1](https://github.com/ruiaraujo012/eslint-config-ruiaraujo-react/compare/v1.1.0...v1.1.1) (2022-06-01)
 
 
