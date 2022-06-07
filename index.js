@@ -26,6 +26,7 @@ module.exports = {
     "import",
     "react-hooks",
     "sort-class-members",
+    "sort-imports-es6-autofix",
     "jsx-a11y",
     "prettier",
   ],
@@ -59,6 +60,14 @@ module.exports = {
       "error",
       "^_$|^[$_a-zA-Z]*[_a-zA-Z0-9]*[a-zA-Z0-9]*$|^[A-Z][_A-Z0-9]+[A-Z0-9]$",
       { onlyDeclarations: true, properties: true },
+    ],
+    "sort-imports-es6-autofix/sort-imports-es6": [
+      "warn",
+      {
+        ignoreCase: false,
+        ignoreMemberSort: false,
+        memberSyntaxSortOrder: ["none", "all", "multiple", "single"],
+      },
     ],
     "max-depth": "error",
     "max-params": ["error", 4],
