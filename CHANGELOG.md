@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/ruiaraujo012/eslint-config-ruiaraujo-react/compare/v1.3.1...v1.4.0) (2022-06-16)
+
+
+### Features
+
+* **rules:** add rule to remove unused imports ([b265670](https://github.com/ruiaraujo012/eslint-config-ruiaraujo-react/commit/b265670f26a8ff1e25bbc41af547f8c155caa21f))
+
 ## [1.3.1](https://github.com/ruiaraujo012/eslint-config-ruiaraujo-react/compare/v1.3.0...v1.3.1) (2022-06-16)
 
 
