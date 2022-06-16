@@ -30,7 +30,12 @@ module.exports = {
     "jsx-a11y",
     "prettier",
   ],
-  "ignorePatterns": ["**/generated/**", "**/build/**", "**/types/**", "**/dist/**"]
+  ignorePatterns: [
+    "**/generated/**",
+    "**/build/**",
+    "**/types/**",
+    "**/dist/**",
+  ],
   rules: {
     "no-use-before-define": "off",
     "@typescript-eslint/no-use-before-define": ["error"],
