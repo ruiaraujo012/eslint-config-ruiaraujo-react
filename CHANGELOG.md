@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/ruiaraujo012/eslint-config-ruiaraujo-react/compare/v1.2.0...v1.3.0) (2022-06-16)
+
+
+### Features
+
+* **ignorepatterns:** add ignore patterns to config ([36ee87c](https://github.com/ruiaraujo012/eslint-config-ruiaraujo-react/commit/36ee87cdbece7dd9265b358a10c47ddc6a49d3b5))
+
 # [1.2.0](https://github.com/ruiaraujo012/eslint-config-ruiaraujo-react/compare/v1.1.1...v1.2.0) (2022-06-07)
 
 
