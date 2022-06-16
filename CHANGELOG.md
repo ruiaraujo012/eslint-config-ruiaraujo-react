@@ -1,3 +1,10 @@
+## [1.3.1](https://github.com/ruiaraujo012/eslint-config-ruiaraujo-react/compare/v1.3.0...v1.3.1) (2022-06-16)
+
+
+### Bug Fixes
+
+* fix a missing comma on ignorePatterns ([7c7c0c4](https://github.com/ruiaraujo012/eslint-config-ruiaraujo-react/commit/7c7c0c4e79d13924f032973b0d38cb9b56ba832f))
+
 # [1.3.0](https://github.com/ruiaraujo012/eslint-config-ruiaraujo-react/compare/v1.2.0...v1.3.0) (2022-06-16)
 
 
