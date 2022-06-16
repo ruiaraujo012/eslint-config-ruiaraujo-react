@@ -5,6 +5,12 @@
   "main": "index.js",
   "repository": "https://github.com/ruiaraujo012/eslint-config-ruiaraujo-react.git",
   "author": "Rui Araújo",
+  "keywords": [
+    "eslint",
+    "eslint-config",
+    "typescript",
+    "react"
+  ],
   "license": "MIT",
   "private": false,
   "devDependencies": {
