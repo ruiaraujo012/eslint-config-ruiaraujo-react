@@ -44,15 +44,7 @@ module.exports = {
     "react/require-default-props": "off",
     "no-unused-vars": "off",
     "unused-imports/no-unused-imports": "warn",
-    "unused-imports/no-unused-vars": [
-      "warn",
-      {
-        vars: "all",
-        varsIgnorePattern: "^_",
-        args: "after-used",
-        argsIgnorePattern: "^_",
-      },
-    ],
+    "unused-imports/no-unused-vars": "off",
     "@typescript-eslint/no-unused-vars": "warn",
     "prettier/prettier": [
       "error",
