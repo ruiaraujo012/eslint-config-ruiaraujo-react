@@ -28,6 +28,7 @@ module.exports = {
     "sort-class-members",
     "sort-imports-es6-autofix",
     "jsx-a11y",
+    "unused-imports",
     "prettier",
   ],
   ignorePatterns: [
@@ -42,6 +43,16 @@ module.exports = {
     "jsx-quotes": ["error", "prefer-single"],
     "react/require-default-props": "off",
     "no-unused-vars": "off",
+    "unused-imports/no-unused-imports": "warn",
+    "unused-imports/no-unused-vars": [
+      "warn",
+      {
+        vars: "all",
+        varsIgnorePattern: "^_",
+        args: "after-used",
+        argsIgnorePattern: "^_",
+      },
+    ],
     "@typescript-eslint/no-unused-vars": "warn",
     "prettier/prettier": [
       "error",
