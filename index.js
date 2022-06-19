@@ -187,6 +187,7 @@ module.exports = {
     "react/self-closing-comp": "error",
     "react/sort-prop-types": "warn",
     "react-hooks/rules-of-hooks": "error",
+    "react-hooks/exhaustive-deps": "warn",
     /* eslint-disable sort-keys */
     "sort-class-members/sort-class-members": [
       "warn",
