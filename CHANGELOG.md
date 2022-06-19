@@ -1,3 +1,10 @@
+# [1.5.0](https://github.com/ruiaraujo012/eslint-config-ruiaraujo-react/compare/v1.4.1...v1.5.0) (2022-06-19)
+
+
+### Features
+
+* **rule:** add exhaustive-deps rule ([5995818](https://github.com/ruiaraujo012/eslint-config-ruiaraujo-react/commit/5995818a00154cca8eb5ccd8df63e74c85993150))
+
 ## [1.4.1](https://github.com/ruiaraujo012/eslint-config-ruiaraujo-react/compare/v1.4.0...v1.4.1) (2022-06-16)
 
 
