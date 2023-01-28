@@ -1,3 +1,15 @@
+# [2.0.0-beta.1](https://github.com/ruiaraujo012/eslint-config-ruiaraujo-react/compare/v1.5.0...v2.0.0-beta.1) (2023-01-28)
+
+
+### chore
+
+* **deps:** upgrade deps ([1927002](https://github.com/ruiaraujo012/eslint-config-ruiaraujo-react/commit/1927002b2b2d25afbb24b3ed43cdffc15626180f))
+
+
+### BREAKING CHANGES
+
+* **deps:** Update node to v18
+
 # [1.5.0](https://github.com/ruiaraujo012/eslint-config-ruiaraujo-react/compare/v1.4.1...v1.5.0) (2022-06-19)
 
 
