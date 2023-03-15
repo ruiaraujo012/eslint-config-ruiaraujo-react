@@ -1,3 +1,11 @@
+## [2.0.1](https://github.com/ruiaraujo012/eslint-config-ruiaraujo-react/compare/v2.0.0...v2.0.1) (2023-03-15)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-config-prettier to v8.7.0 ([a69aa8d](https://github.com/ruiaraujo012/eslint-config-ruiaraujo-react/commit/a69aa8d1f841552bafc1fc1043300ebc672e2b37))
+* **deps:** update dependency eslint-plugin-react to v7.32.2 ([44e2af1](https://github.com/ruiaraujo012/eslint-config-ruiaraujo-react/commit/44e2af128eb20a9e3db657f25ee39719f1be7b83))
+
 # [2.0.0](https://github.com/ruiaraujo012/eslint-config-ruiaraujo-react/compare/v1.5.0...v2.0.0) (2023-01-28)
 
 
