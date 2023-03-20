@@ -1,3 +1,11 @@
+## [2.0.3](https://github.com/ruiaraujo012/eslint-config-ruiaraujo-react/compare/v2.0.2...v2.0.3) (2023-03-20)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-config-prettier to v8.8.0 ([e617934](https://github.com/ruiaraujo012/eslint-config-ruiaraujo-react/commit/e6179344f492669c281a3017eb910453fbdda073))
+* **deps:** update typescript-eslint monorepo to v5.56.0 ([8d8ef2c](https://github.com/ruiaraujo012/eslint-config-ruiaraujo-react/commit/8d8ef2cc71496ee60507296e4228df6b2124d2a0))
+
 ## [2.0.2](https://github.com/ruiaraujo012/eslint-config-ruiaraujo-react/compare/v2.0.1...v2.0.2) (2023-03-15)
 
 
