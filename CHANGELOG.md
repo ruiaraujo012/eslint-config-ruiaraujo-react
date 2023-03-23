@@ -1,3 +1,15 @@
+# [2.1.0](https://github.com/ruiaraujo012/eslint-config-ruiaraujo-react/compare/v2.0.3...v2.1.0) (2023-03-23)
+
+
+### Bug Fixes
+
+* **deps:** remove redundant deps ([3525369](https://github.com/ruiaraujo012/eslint-config-ruiaraujo-react/commit/3525369b0f69ddfb2a5884dc61e718e840a393d6))
+
+
+### Features
+
+* **update-rule:** add k as a valid short identifier ([9cdc6b3](https://github.com/ruiaraujo012/eslint-config-ruiaraujo-react/commit/9cdc6b3d82d5405687537e56da76a89687fac5b9)), closes [#29](https://github.com/ruiaraujo012/eslint-config-ruiaraujo-react/issues/29)
+
 ## [2.0.3](https://github.com/ruiaraujo012/eslint-config-ruiaraujo-react/compare/v2.0.2...v2.0.3) (2023-03-20)
 
 
