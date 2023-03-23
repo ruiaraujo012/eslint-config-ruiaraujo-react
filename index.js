@@ -63,7 +63,7 @@ module.exports = {
     "func-style": ["error", "declaration", { allowArrowFunctions: true }],
     "id-length": [
       "warn",
-      { exceptions: ["_", "e", "i", "j", "m", "p", "t", "x", "y", "z"] },
+      { exceptions: ["_", "e", "i", "j", "k", "m", "p", "t", "x", "y", "z"] },
     ],
     "id-match": [
       "error",
