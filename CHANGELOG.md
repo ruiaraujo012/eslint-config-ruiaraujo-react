@@ -1,3 +1,16 @@
+# [3.0.0](https://github.com/ruiaraujo012/eslint-config-ruiaraujo-react/compare/v2.1.0...v3.0.0) (2023-03-24)
+
+
+### Features
+
+* **rules:** add new rules and remove some of them ([cf1bfd5](https://github.com/ruiaraujo012/eslint-config-ruiaraujo-react/commit/cf1bfd586cada1e397196aca9e01d5e9cc8a2b0a))
+
+
+### BREAKING CHANGES
+
+* **rules:** Since some added rules caused the code not to compile, this caused breaking
+changes. They can be fixed with the `--fix` flag.
+
 # [2.1.0](https://github.com/ruiaraujo012/eslint-config-ruiaraujo-react/compare/v2.0.3...v2.1.0) (2023-03-23)
 
 
