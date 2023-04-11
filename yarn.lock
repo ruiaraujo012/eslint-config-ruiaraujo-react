@@ -3250,9 +3250,9 @@ eslint-plugin-react@^7.32.1:
     string.prototype.matchall "^4.0.8"
 
 eslint-plugin-sort-class-members@^1.16.0:
-  version "1.17.0"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-sort-class-members/-/eslint-plugin-sort-class-members-1.17.0.tgz#6b801091434a65e0e53b40c633f7f327eb1d3162"
-  integrity sha512-VnWa5a7nUhIQ5NDbchLAGLokOY3YCH5B2vIaus9Eq9jPSWYRRRH4MMBjrz+S+RSeMIOQOXI4tDfSZ4WcmQ5RIg==
+  version "1.17.1"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-sort-class-members/-/eslint-plugin-sort-class-members-1.17.1.tgz#bf76796953dc0711854a322f5203fb1ba829ffa0"
+  integrity sha512-qLUeVJDGRUAww4ndgyTux07b1NGSeyYo/tA6/jD66U9LDoQsvZ/n+Yd/as7lc6NVT2wDfFh9256k9ktOnE6iQA==
 
 eslint-plugin-sort-imports-es6-autofix@^0.6.0:
   version "0.6.0"
