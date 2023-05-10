@@ -1,3 +1,10 @@
+## [3.0.11](https://github.com/ruiaraujo012/eslint-config-ruiaraujo-react/compare/v3.0.10...v3.0.11) (2023-05-10)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-plugin-sort-class-members to v1.18.0 ([abebcb4](https://github.com/ruiaraujo012/eslint-config-ruiaraujo-react/commit/abebcb4890936bcf6c53b7c8c79181fec08ad8dc))
+
 ## [3.0.10](https://github.com/ruiaraujo012/eslint-config-ruiaraujo-react/compare/v3.0.9...v3.0.10) (2023-05-09)
 
 
