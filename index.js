@@ -119,6 +119,12 @@ module.exports = {
     "no-useless-escape": "error",
     "no-useless-rename": "error",
     "no-with": "error",
+    "no-restricted-imports": [
+      "error",
+      {
+        patterns: ["@/features/*/*"],
+      },
+    ],
     "spaced-comment": [
       "error",
       "always",
