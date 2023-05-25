@@ -1,3 +1,10 @@
+# [3.1.0](https://github.com/ruiaraujo012/eslint-config-ruiaraujo-react/compare/v3.0.13...v3.1.0) (2023-05-25)
+
+
+### Features
+
+* **rules:** add feature rule ([ffe56c7](https://github.com/ruiaraujo012/eslint-config-ruiaraujo-react/commit/ffe56c7fc413f2c8c77dbfd66583f3df5c820d95))
+
 ## [3.0.13](https://github.com/ruiaraujo012/eslint-config-ruiaraujo-react/compare/v3.0.12...v3.0.13) (2023-05-22)
 
 
