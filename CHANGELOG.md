@@ -1,3 +1,10 @@
+## [3.1.8](https://github.com/ruiaraujo012/eslint-config-ruiaraujo-react/compare/v3.1.7...v3.1.8) (2023-07-11)
+
+
+### Bug Fixes
+
+* **deps:** update typescript-eslint monorepo to v5.62.0 ([84fdee0](https://github.com/ruiaraujo012/eslint-config-ruiaraujo-react/commit/84fdee053ecd89e60f728157c0d5da9732fcb902))
+
 ## [3.1.7](https://github.com/ruiaraujo012/eslint-config-ruiaraujo-react/compare/v3.1.6...v3.1.7) (2023-07-03)
 
 
