@@ -1,3 +1,10 @@
+## [3.1.11](https://github.com/ruiaraujo012/eslint-config-ruiaraujo-react/compare/v3.1.10...v3.1.11) (2023-07-28)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-plugin-import to v2.28.0 ([b6fd66b](https://github.com/ruiaraujo012/eslint-config-ruiaraujo-react/commit/b6fd66b39fdc9039017738b7b0e5f588f3eb73c1))
+
 ## [3.1.10](https://github.com/ruiaraujo012/eslint-config-ruiaraujo-react/compare/v3.1.9...v3.1.10) (2023-07-27)
 
 
