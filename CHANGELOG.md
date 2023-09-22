@@ -1,3 +1,10 @@
+## [3.1.17](https://github.com/ruiaraujo012/eslint-config-ruiaraujo-react/compare/v3.1.16...v3.1.17) (2023-09-22)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-import-resolver-typescript to v3.6.1 ([4090ea8](https://github.com/ruiaraujo012/eslint-config-ruiaraujo-react/commit/4090ea839ebd126f7b66fb0a8e0560657542b78f))
+
 ## [3.1.16](https://github.com/ruiaraujo012/eslint-config-ruiaraujo-react/compare/v3.1.15...v3.1.16) (2023-08-19)
 
 
