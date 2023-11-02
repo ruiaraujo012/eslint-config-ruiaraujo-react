@@ -1,3 +1,10 @@
+## [3.1.20](https://github.com/ruiaraujo012/eslint-config-ruiaraujo-react/compare/v3.1.19...v3.1.20) (2023-11-02)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-plugin-jsx-a11y to v6.8.0 ([ba8e069](https://github.com/ruiaraujo012/eslint-config-ruiaraujo-react/commit/ba8e0697b45074013e3b075748897b84a6c0e606))
+
 ## [3.1.19](https://github.com/ruiaraujo012/eslint-config-ruiaraujo-react/compare/v3.1.18...v3.1.19) (2023-10-23)
 
 
