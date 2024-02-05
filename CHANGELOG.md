@@ -1,3 +1,10 @@
+## [3.1.22](https://github.com/ruiaraujo012/eslint-config-ruiaraujo-react/compare/v3.1.21...v3.1.22) (2024-02-05)
+
+
+### Bug Fixes
+
+* **deps:** update peer deps ([8510065](https://github.com/ruiaraujo012/eslint-config-ruiaraujo-react/commit/85100655b98b1a6446b449acdaaba9c26d582b77))
+
 ## [3.1.21](https://github.com/ruiaraujo012/eslint-config-ruiaraujo-react/compare/v3.1.20...v3.1.21) (2023-12-14)
 
 
