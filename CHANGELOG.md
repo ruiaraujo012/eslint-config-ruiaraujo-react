@@ -1,3 +1,10 @@
+## [3.1.25](https://github.com/ruiaraujo012/eslint-config-ruiaraujo-react/compare/v3.1.24...v3.1.25) (2024-03-16)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-plugin-react to v7.34.1 ([5679ac4](https://github.com/ruiaraujo012/eslint-config-ruiaraujo-react/commit/5679ac401283ab32e802eabdda269f26d4636bca))
+
 ## [3.1.24](https://github.com/ruiaraujo012/eslint-config-ruiaraujo-react/compare/v3.1.23...v3.1.24) (2024-03-04)
 
 
