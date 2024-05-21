@@ -1,3 +1,15 @@
+# [4.0.0-beta.1](https://github.com/ruiaraujo012/eslint-config-ruiaraujo-react/compare/v3.1.25...v4.0.0-beta.1) (2024-05-21)
+
+
+### Features
+
+* **update-deps:** eslint v9 is now the only supported version ([9842235](https://github.com/ruiaraujo012/eslint-config-ruiaraujo-react/commit/9842235a303e0c77c175f7d424630e8f94859e44))
+
+
+### BREAKING CHANGES
+
+* **update-deps:**
+
 ## [3.1.25](https://github.com/ruiaraujo012/eslint-config-ruiaraujo-react/compare/v3.1.24...v3.1.25) (2024-03-16)
 
 
