@@ -1,3 +1,15 @@
+# [4.0.0-beta.2](https://github.com/ruiaraujo012/eslint-config-ruiaraujo-react/compare/v4.0.0-beta.1...v4.0.0-beta.2) (2024-06-11)
+
+
+### Bug Fixes
+
+* **packageManager:** remove packageManager from package.json ([b7a4a66](https://github.com/ruiaraujo012/eslint-config-ruiaraujo-react/commit/b7a4a66a052bee80e2f99188dd5cb5c3118ee666))
+
+
+### Features
+
+* **eslint:** new attempt to use eslint v9 ([b6d9908](https://github.com/ruiaraujo012/eslint-config-ruiaraujo-react/commit/b6d990897e4f7ad2858ab44dbcd61069b11c14ba))
+
 # [4.0.0-beta.1](https://github.com/ruiaraujo012/eslint-config-ruiaraujo-react/compare/v3.1.25...v4.0.0-beta.1) (2024-05-21)
 
 
