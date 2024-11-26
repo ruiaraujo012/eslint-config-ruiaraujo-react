@@ -20,8 +20,8 @@
     "semantic-release": "21.1.2"
   },
   "dependencies": {
-    "@typescript-eslint/eslint-plugin": "^5.49.0",
-    "@typescript-eslint/parser": "^5.49.0",
+    "@typescript-eslint/eslint-plugin": "^8.0.0",
+    "@typescript-eslint/parser": "^8.0.0",
     "eslint-config-prettier": "^8.8.0",
     "eslint-config-react-app": "^7.0.1",
     "eslint-import-resolver-typescript": "^3.5.3",
